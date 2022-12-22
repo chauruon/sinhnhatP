@@ -96,7 +96,7 @@ const Flip = () => {
               alt=""
               className="imgBookCover"
               style={{ borderRadius: 30 }}
-              src={quy2}
+              src={hinh4}
               width="90%"
             />
           </div>
@@ -120,7 +120,7 @@ const Flip = () => {
                   borderRadius: 30,
                   margin: 40,
                 }}
-                src={quy1}
+                src={hinh1}
                 height={280}
                 width={280}
               />
@@ -135,7 +135,7 @@ const Flip = () => {
                   borderRadius: 30,
                   padding: 4,
                 }}
-                src={quy3}
+                src={hinh3}
                 height={280}
                 width={280}
               />
